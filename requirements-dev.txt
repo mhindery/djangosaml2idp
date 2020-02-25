@@ -11,7 +11,7 @@ cffi==1.14.0              # via cryptography
 cfgv==3.0.0               # via pre-commit
 chardet==3.0.4            # via requests
 click==7.0                # via pip-tools
-codecov==2.0.15
+codecov==2.0.16
 coverage==5.0.3           # via codecov
 cryptography==2.8         # via pyopenssl, pysaml2
 defusedxml==0.6.0         # via pysaml2
